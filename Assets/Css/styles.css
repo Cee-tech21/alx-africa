@@ -1,0 +1,6 @@
+
+@media (max-width: 900px){
+    .border-left-0{
+      border-left: none!important;
+    }
+}
